@@ -1,0 +1,47 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1686775775",
+        "name": "memclid",
+        "value": "86215828-3c14-4f6c-9de1-bf1b96d24f40"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1683422980",
+        "name": "OptanonAlertBoxClosed",
+        "value": "2022-05-07T03:29:40.618Z"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1686773056",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABTbrMhJurMV8D2loIB0vJAhBOyDX1P8Sww.%26dt%3D1655244261727"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "FALSE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1686773056",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBENguphN9ddOqOxXjR4m2MWSCYNg1ZFYJ5TXLaac-d16jxJi9jh-dMCpynl18KQ2RymAH1qG1AeN29nFzQ27in7LgxhxG90QqC9zoV86TUXQ-zYFprNBOcvgPnVUTjg-6hvXn4m4q7WfVmjLNso16AkhxXiWLQX0t9HGatAV63sr7mL7JsVLg4G7LcIC6KXLUpJnrCmCdakpti8NcJiC60ebGrY57bdDjkU-Gqjbhmi2keiA9ta2T-iHc92733eDCzkGWlXxEIrvRmcJ11VWDdMJuDzCWFl_es8SDDhVN9O1XRAuZLjcr_er7W91aDcK1OhFBh0gQESJJFFTkFWNjR2Ao1cBo7bte3No1QDMsT_P4iP4Y0Clddv9z-lDmrN_5_rBBRMBqA4RyD2gMygANGY4Ilo9fGLcXVOTFO12ETS9-pAJIKSJYXAIpdwdfjh9Tfm8kqcqMlmi0ny_dct6A8609OLx-UZDlJ8Rdo9kjJXW6W6XcdHweeGvtjuCYju5N7Jp03IX_necCwIw70jw0mFD46WXosfL9uyXVcd9Yqwbrrt417bm6CxZO7MJT0sNNVj3YO-9TjKoBDTTkQefn9-FgKZR5o6VHZhlc68SgnZ9AOt6kS3AybMs20LkrjNYxStwUpPrarE1xucJDiwwqUkNS5Dhw1w04okxRLVqJAnSceFGSbkIHPpawt5rH7tS2KdLpHjbBDCcimNFgIOJ6Gc3QzbBBkfMAsp4PP8-I71LxFuosVTMkRbaARoEH3qYJ4EJs58XYxcQ_22saJ8sN4DoeoIXY3NLF6vis9NtEyRGKp2kR3zzuzrj2zBgw4tHzA1Ya%26bt%3Ddbl%26ch%3DAQEAEAABABTK528no4hHEM8j9dFb-6RwsWn3kR3_zjI.%26v%3D2%26mac%3DAQEAEAABABQWn58lwRCPVhSsnmfGghsd95BRhV_IFbw."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": true,
+        "expiration": "1686773058",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Tue+Jun+14+2022+18%3A04%3A18+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=6.6.0&consentId=38b18060-11b8-4c9e-a5ef-9d19fbb5c99c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1&AwaitingReconsent=false&geolocation=CL%3BRM"
+    }
+]

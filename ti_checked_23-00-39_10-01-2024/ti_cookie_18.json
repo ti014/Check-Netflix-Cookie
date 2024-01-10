@@ -1,0 +1,56 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1665287665",
+        "name": "memclid",
+        "value": "d3742d77-72cf-4971-9c62-6acecd141631"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1664643344",
+        "name": "OptanonConsent",
+        "value": "isIABGlobal=false&datestamp=Fri+Oct+01+2021+13%3A55%3A44+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=6.6.0&consentId=a0fdef19-2de9-418f-9508-4b2f396f3602&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1664643357",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEKlcDsRdRlZy6530LuLIiTFgk4JAG8fDBE_fCetKRGiB5Fl9jwpTjgVj6JK4zkpwib9EKmSUTrSYWTSdEt2-vMrc8HyVkr63CdmhVZn2PRl6gozKqFFBzHL5_vHR6i4HoDJatXOBrHll_rSzpTEgaJWC"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1641523413",
+        "name": "playerPerfMetrics",
+        "value": "%7B%22uiValue%22%3A%7B%22throughput%22%3A32.6253%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A71.5597%2C%22throughputNiqr%22%3A0.47131405540155513%7D%7D"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1665286701",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABROBAEdj-495Vg6C8zPgPU1ZRTYHAmdeAU.%26dt%3D1633750700682"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1665286701",
+        "name": "NetflixId",
+        "value": "v%3D2%26ct%3DBQAOAAEBELr0WAuzahVO1KRX9ZE4ATWB0AL2QuSxoaMNB_St912WeClwq7SAs_8sLaOSBBU0TQZBFsZepic31SMzVNaiGTI2EdAUXyEPlF_xfnJXo3P52i_8DBxY_Gvh8AABLc1gJFI6KBaqxTBaqiZAhJbFH7HydorttGmhdfSXgPDgbAPKuV_EHY3uEraaWznhyb023Z16cWlSPO1lwF3aUfN01pekMEBsuP1UNzrBzU6YtzzzJ0sRnRoXfx2LQFmtHQprfPsj7HMn1QzNiGa_pmqPkha-ldaYU14szhPrPXn3f0uRLpmSxs3gLTsIMitAlvNk944rEHDkNNCwAFL11NAhRyVu9EHiZ71gVx9rWQ92w8DOhqCLP85c1jewtg5juB3_FYBTI9HpPhswVP87b8UVor_bHP68MlVF5VeXeGKkM-ZFKtyAoHGKpwGnWkySDS4hFI2KMQl6pvx9HnLgm8D8AkLOcMf-BtPU3Myij4eiMgHW1TVS4q5tI5D-t5FtKC0bTPacSOn1C993eskjCdDHP-slY14xRDdZh8fMStrCM6pE9Tqs8m185DbmfCHukAF6pjmE4KT7m1eqNXyRHdhbw2MOgWlL3KW6lVnPkS7llRGJKPiXzvF1sBglGkh3ZHjV1J4g%26bt%3Ddbl%26ch%3DAQEAEAABABRNbY1n6ljo5V-WyLcKaZ-6oIPd9xaLsQU.%26mac%3DAQEAEAABABQ80b4yVQzgFVNl_Mf20mO8Tg1FfVAPhY8."
+    }
+]

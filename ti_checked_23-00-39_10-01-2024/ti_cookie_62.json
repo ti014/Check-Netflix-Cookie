@@ -1,0 +1,38 @@
+[
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1644280273",
+        "name": "nfvdid",
+        "value": "BQFmAAEBEEgbEhxFwgEbxPRntd81bdxgU7PJtURbqAmbj4Bh410n-oXHAKj-5cYJsSqW-GZC9Om896PTSc4I1iCqGlRQT3BFdoAXv1OS1gvTyPIF2u_wAWGM4v6wXwnVaRaDMdtZ2DopvehjtzGaYzalXbXWORVs"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1651680102",
+        "name": "NetflixId",
+        "value": "ct%3DBQAOAAEBENU3H87n2afXtkqoHks8GEeCYH6bgdvokzQpysLjeOVMHeRAzKF5wZ1ygDToSdNwWW8fAxzObbZGe6ia12gi5E4zjWCRyUf0vk9qydrEEJOEMApdlBTdmCH7VSdxqualx9umN-8m8YAwvU7cCVvSpLfwQe0qswoKgqzPN9jf2b-bBTzgEMlWfbfmS4kz0_1C-7rcTgwQduvXOinQUt_bfH0FWkui-bhas53KYXDBtnlcGYpIOEbWVTZgF2YHr2PePMO6tbPNgyoO5PJMZKFDYHnoJgIIAjsPU6iXuobJDMbkiPNa6jEmn6bhnP27eFWXNdze0vLEtHsvHsB9-TGyGhYbzX1o-8rOk6V4eoONpY6gVF34pVuct38zSnhsH2Q3DATYVfrCt_MZWDs61OdGcdovyu2RdXmhT3B09tNkfMtuARgO5BmkyghhIL1X1pfZ8LRnZkwLzOns65o6MPGwP6J-2X5lmhdIdHd2-DcPIJEVf-nZhKhHYkis4XtPzOCdTa2hhwmVacClZcjDMxNA6lzt9nksjzFNCuIego-CN0ZEIEe26BjMMUE59-iyCUS3C2NbRXR7YjNpp-c334ppyjTSENhHlfpW9NGnqHjHxgjar_9G2E_ThneR4KaTWxuGct7ZUwDw7AXT52-UA1rfparBDew_cxlPVye-zx9cJ9gtnJD69s0BpKM1wV15o3y2nDTwSNXq_bcwPrqN5IF35gJ0g9WRRfEGOUZ2qVzxT7X1oBKIDMbaJfipehdtneU6HL1NVGivnlb0_DFNAhi98QsBU0ZqVkn7CxJxt53CrD93iTfJVd1Tf3_O3cKNkOep5XbM%26bt%3Ddbl%26ch%3DAQEAEAABABSC_DtHpIailWEhj2ZjgFzNli-yjiIo4Sg.%26v%3D2%26mac%3DAQEAEAABABTWRFFWBXurkRBjsdLUa-7myMY9YF0SC28."
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1651680102",
+        "name": "SecureNetflixId",
+        "value": "v%3D2%26mac%3DAQEAEQABABQRve3gptsX9VEyi01RbLeI2TgPQY-bbzo.%26dt%3D1620144102077"
+    },
+    {
+        "domain": ".netflix.com",
+        "flag": "TRUE",
+        "path": "/",
+        "secure": false,
+        "expiration": "1651680732",
+        "name": "memclid",
+        "value": "177794d5-4ffa-4bc5-beed-76623bc54ec3"
+    }
+]
